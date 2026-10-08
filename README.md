@@ -39,7 +39,7 @@ Dataset sintético generado con IA (Claude, Anthropic), 2023–2024, bajo un **m
 | DIM_Vendedor | Dimensión | 6 |
 | DIM_Tienda | Dimensión | 5 |
 
-`data/TechStore.xlsx` contiene la tabla de hechos (17 columnas: cantidad, precio, descuento, ingreso, costo, margen, canal, método de pago y estado del pedido). Las dimensiones están cargadas en el modelo del `.pbix`.
+`data/TechStore.csv` contiene la tabla de hechos (17 columnas: cantidad, precio, descuento, ingreso, costo, margen, canal, método de pago y estado del pedido). Las dimensiones están cargadas en el modelo del `.pbix`.
 
 > Los datos son ficticios y no representan a ninguna empresa real.
 
