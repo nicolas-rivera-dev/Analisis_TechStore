@@ -1,7 +1,8 @@
 # TechStore
 Dashboard interactivo en Power BI para una cadena ficticia de tiendas de tecnología en Bolivia. Proyecto enfocado en la construcción de Dashboards y KPIs (Power BI).
 
-![TechStore](Documentos/TechStore_Dashboard.png)
+!<img width="2000" height="1146" alt="TechStore_Dashboard" src="https://github.com/user-attachments/assets/f3100bf5-0bbe-4537-8e5b-91ea51b2f92a" />
+
 
 ## Objetivo
 
